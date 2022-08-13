@@ -24,3 +24,24 @@
 18. [Multiple Badges](#multiple-badges)
 19. [Emojis](#emojis)
 
+>### ***Headings***
+---
+To create a heading in readme, we need to use #. The size of headings can be changed by adding multiple # Together. The greater the number of # is, the smaller the heading is.
+
+```markdown
+Symbol  Tag       Code
+------  -----     ----
+#       <h1>      # h1 heading
+##      <h2>      ## h2 heading
+###     <h3>      ### h3 heading
+####    <h4>      #### h4 heading
+#####   <h5>      ##### h5 heading
+######  <h6>      ###### h6 heading
+```
+***Output* from above code** <hr>
+# h1 heading
+## h2 heading
+### h3 heading
+#### h4 heading
+##### h5 heading
+###### h6 heading
