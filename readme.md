@@ -115,7 +115,7 @@ Syntax:
 ![Text](https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png)
 <br>
 
->### ***BlockQuotes***
+>### ***Block Quotes***
 ---
 To create a blockquote, we need to use <code>></code>
 
@@ -125,4 +125,16 @@ Syntax:
 ```
 ***Output* from above syntax** <hr>
 > Code is poetry.
+<br>
+
+>### ***Inline Code***
+---
+To create inline code, we need to use `<code>Code</code>`
+
+```markdown
+Syntax:
+<code>composer install</code>
+```
+***Output* from above syntax** <hr>
+<code>composer install</code>
 <br>
