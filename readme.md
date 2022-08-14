@@ -114,3 +114,15 @@ Syntax:
 ***Output* from above syntax** <hr>
 ![Text](https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png)
 <br>
+
+>### ***BlockQuotes***
+---
+To create a blockquote, we need to use <code>></code>
+
+```markdown
+Syntax:
+> Code is poetry.
+```
+***Output* from above syntax** <hr>
+> Code is poetry.
+<br>
