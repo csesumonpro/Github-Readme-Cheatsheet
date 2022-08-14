@@ -138,3 +138,22 @@ Syntax:
 ***Output* from above syntax** <hr>
 <code>composer install</code>
 <br>
+
+>### ***Syntax highlighting***
+---
+To create syntax highlighting, we need to use
+```markdown
+```code``` (Here 'code' is the language name that we want to highlight)
+```
+
+```markdown
+Syntax:
+```php
+echo "Hello World";
+```
+*We need to add three backtick (```) after helo world semicolon*<br>
+***Output* from above syntax** <hr>
+```php
+echo "Hello World";
+```
+<br>
