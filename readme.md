@@ -45,3 +45,18 @@ Symbol  Tag       Code
 #### h4 heading
 ##### h5 heading
 ###### h6 heading
+<br>
+
+>### ***Bold and Italic Text***
+---
+To create bold text, we need to use **. To create italic text, we need to use *.
+
+```markdown
+Symbol  Tag       Code
+------  -----     ----
+**      <b>       **bold**
+*       <i>       *italic*
+```
+***Output* from above code** <hr>
+**bold**
+*italic*
