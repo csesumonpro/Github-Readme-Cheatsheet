@@ -60,3 +60,33 @@ Symbol  Tag       Code
 ***Output* from above code** <hr>
 **bold**
 *italic*
+<br>
+
+>### ***Lists***
+---
+*To create a unordered list, we can use * or - for each list point.*
+
+```markdown
+Symbol  Tag       Code
+------  -----     ----
+*       <ul>      * Bullet Point 1 Using *
+-       <ul>      - Bullet Point 2 Using -
+```
+***Output* from above code** <hr>
+* Bullet Point 1 Using *
+- Bullet Point 2 Using -
+
+*To create a ordered list, we can simply use 1. and so on.*
+
+```markdown
+Symbol  Tag       Code
+------  -----     ----
+1.      <ol>      1. Point 1
+2.      <ol>      2. Point 2
+3.      <ol>      3. Point 3
+```
+***Output* from above code** <hr>
+1. Point 1
+2. Point 2
+3. Point 3
+<br>
