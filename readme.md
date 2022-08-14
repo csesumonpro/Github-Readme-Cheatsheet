@@ -197,3 +197,23 @@ Syntax:
 ***Output* from above syntax** <hr>
 <br>
 <br>
+
+>### ***Horizontal Rule***
+---
+To create a horizontal rule, we need to use `<hr> or *** or ---`
+
+```markdown
+Syntax:
+<hr>
+
+***
+
+---
+```
+***Output* from above syntax** 
+<hr>
+
+***
+
+---
+<br>
