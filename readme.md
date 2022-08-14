@@ -103,3 +103,14 @@ Syntax:
 [Text](Link)
 <br>
 
+>### ***Adding Images***
+---
+`To create an image, we need to use ![Text](Link)`
+
+```markdown
+Syntax:
+![Text](https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png)
+```
+***Output* from above syntax** <hr>
+![Text](https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png)
+<br>
