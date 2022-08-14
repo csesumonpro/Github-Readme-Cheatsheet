@@ -173,3 +173,15 @@ Syntax:
  ------   | ------  | ------  
  column-1 | column-2| column-3
 <br>
+
+>### ***Strike Threw***
+---
+To create strike through text, we need to use `<code>~~text~~</code>`
+
+```markdown
+Syntax:
+~~text~~
+```
+***Output* from above syntax** <hr>
+~~text~~
+<br>
