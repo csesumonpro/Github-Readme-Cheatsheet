@@ -217,3 +217,16 @@ Syntax:
 
 ---
 <br>
+
+>### ***Custom Width and Height Images***
+---
+To create a custom width and height images, we need to use `<img src="link" width="100" height="100"/>`
+
+```markdown
+Syntax:
+<img src="https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png" width="250" height="200"/>
+```
+***Output* from above syntax** <hr>
+
+<img src="https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png" width="250" height="200"/>
+<br>
