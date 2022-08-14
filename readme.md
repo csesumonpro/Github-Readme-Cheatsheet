@@ -176,7 +176,7 @@ Syntax:
 
 >### ***Strike Threw***
 ---
-To create strike through text, we need to use `<code>~~text~~</code>`
+To create strike through text, we need to use `~~text~~`
 
 ```markdown
 Syntax:
@@ -184,4 +184,16 @@ Syntax:
 ```
 ***Output* from above syntax** <hr>
 ~~text~~
+<br>
+
+>### ***Line Break***
+---
+To create a line break, we need to use `<br> or <br/>`
+
+```markdown
+Syntax:
+<br>
+```
+***Output* from above syntax** <hr>
+<br>
 <br>
