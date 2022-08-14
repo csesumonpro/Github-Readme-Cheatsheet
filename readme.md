@@ -157,3 +157,19 @@ echo "Hello World";
 echo "Hello World";
 ```
 <br>
+
+>### ***Tables***
+---
+To create a table, we need to use | for each cell.
+
+```markdown
+Syntax:
+ Header-1 | Header-2| Header-3
+ ------   | ------  | ------  
+ column-1 | column-2| column-3
+```
+***Output* from above syntax** <hr>
+ Header-1 | Header-2| Header-3
+ ------   | ------  | ------  
+ column-1 | column-2| column-3
+<br>
