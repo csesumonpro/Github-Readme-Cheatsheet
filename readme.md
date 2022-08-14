@@ -90,3 +90,16 @@ Symbol  Tag       Code
 2. Point 2
 3. Point 3
 <br>
+
+>### ***Adding Links To Text***
+---
+To create a link, we need to use [Text](Link).
+
+```markdown
+Syntax:
+[Text](Link)
+```
+***Output* from above syntax** <hr>
+[Text](Link)
+<br>
+
