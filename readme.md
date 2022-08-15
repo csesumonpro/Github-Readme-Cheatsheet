@@ -19,10 +19,8 @@
 13. [Custom Width and Height Images](#custom-width-and-height-images)
 14. [Adding a gif/image from project directory](#adding-a-gifimage-from-project-directory)
 15. [Adding Link To Images](#adding-link-to-images)
-16. [Adding hyperlinks or Tabs](#adding-hyperlinks-or-tabs)
-17. [Markdown Badges](#markdown-badges)
-18. [Multiple Badges](#multiple-badges)
-19. [Emojis](#emojis)
+16. [Badges](#badges)
+17. [Emojis](#emojis)
 
 >### ***Headings***
 ---
@@ -253,4 +251,27 @@ Syntax:
 ```
 ***Output* from above syntax** <hr>
 [<img alt="github-logo" width="100" src="assets/img/github-mark.png"/>](https://github.com/csesumonpro/Github-Readme-Cheatsheet)
+<br>
+
+>### ***Badges***
+---
+[Get all about shields](https://shields.io/)
+
+[Markdown badges](https://github.com/Ileriayo/markdown-badges)
+
+[Get all about Badge Poser](https://poser.pugx.org/)
+
+
+To create a markdown badges, we need to use `[![](link)](link)`
+
+```markdown
+Syntax:
+[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[![Total Downloads](https://poser.pugx.org/csesumonpro/contact/downloads)](https://packagist.org/packages/csesumonpro/contact)
+```
+***Output* from above syntax** <hr>
+[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[![Total Downloads](https://poser.pugx.org/csesumonpro/contact/downloads)](https://packagist.org/packages/csesumonpro/contact)
 <br>
