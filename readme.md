@@ -242,3 +242,15 @@ Syntax:
 ***Output* from above syntax** <hr>
 <img src="assets/img/github-mark.png" width="200" height="100" alt="github-logo"/>
 <br>
+
+>### ***Adding link to images***
+---
+To create a link to an image, we need to use `[<img src=""/>](link)`
+
+```markdown
+Syntax:
+[<img alt="github-logo" width="100" src="assets/img/github-mark.png"/>](https://github.com/csesumonpro/Github-Readme-Cheatsheet)
+```
+***Output* from above syntax** <hr>
+[<img alt="github-logo" width="100" src="assets/img/github-mark.png"/>](https://github.com/csesumonpro/Github-Readme-Cheatsheet)
+<br>
