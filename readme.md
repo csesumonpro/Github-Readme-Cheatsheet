@@ -275,3 +275,21 @@ Syntax:
 
 [![Total Downloads](https://poser.pugx.org/csesumonpro/contact/downloads)](https://packagist.org/packages/csesumonpro/contact)
 <br>
+
+>### ***Emojis***
+---
+To add emojis, we can easily add them by copying and pasting the emoji.
+[List of emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+**Alternatives**:
+You can use the [gitub emoji api](https://api.github.com/emojis) link as a img src
+
+```markdown
+Syntax:
+😎🥳
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" width="14"/>
+```
+***Output* from above syntax** <hr>
+😎🥳 <br>
+Alternatives:
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" width="14"/>
