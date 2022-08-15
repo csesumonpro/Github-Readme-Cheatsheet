@@ -17,7 +17,7 @@
 12. [Horizontal Rule](#horizontal-rule)
 >### Advanced Features <br>
 13. [Custom Width and Height Images](#custom-width-and-height-images)
-14. [Adding a GIF](#adding-a-gif)
+14. [Adding a gif/image from project directory](#adding-a-gifimage-from-project-directory)
 15. [Adding Link To Images](#adding-link-to-images)
 16. [Adding hyperlinks or Tabs](#adding-hyperlinks-or-tabs)
 17. [Markdown Badges](#markdown-badges)
@@ -229,4 +229,16 @@ Syntax:
 ***Output* from above syntax** <hr>
 
 <img src="https://user-images.githubusercontent.com/29582239/184543797-60b6ca0d-decc-452e-b9cc-e3daac17f2cd.png" width="250" height="200"/>
+<br>
+
+>### ***Adding a gif/image from project directory***
+---
+To create a gif, we need to use `<img src="link" width="100" height="100"/>`
+
+```markdown
+Syntax:
+<img src="assets/img/github-mark.png" width="200" height="100" alt="github-logo"/>
+```
+***Output* from above syntax** <hr>
+<img src="assets/img/github-mark.png" width="200" height="100" alt="github-logo"/>
 <br>
